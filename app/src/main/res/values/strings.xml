@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Entertainment</string>
+
+    <string name="double_click_exit">Press again to exit</string>
+
+    <!-- Drawer相关 -->
+    <string name="drawer_open">DrawerOpen</string>
+    <string name="drawer_close">DrawerClose</string>
+
+    <!-- app相关 -->
+    <string name="common_load_more_end">No more content</string>
+</resources>

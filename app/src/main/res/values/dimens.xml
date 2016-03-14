@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- tabBar分割条的样式设置 -->
+    <dimen name="fragment_common_list_smart_tab_padding">20dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_height">3dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_radius">2dp</dimen>
+</resources>

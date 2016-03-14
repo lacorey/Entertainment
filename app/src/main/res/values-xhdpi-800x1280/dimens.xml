@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="home_menu_width">260dp</dimen>
+    <dimen name="home_menu_top_image_height">140dp</dimen>
+
+    <dimen name="list_item_news_list_image_width">100dp</dimen>
+    <dimen name="list_item_news_list_image_height">75dp</dimen>
+    <dimen name="list_item_news_list_slide_image_height">95dp</dimen>
+
+    <dimen name="list_item_videos_list_image_height">220dp</dimen>
+
+    <dimen name="player_disc_size">260dp</dimen>
+    <dimen name="player_disc_container_marign">30dp</dimen>
+
+</resources>
