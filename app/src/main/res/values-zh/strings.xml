@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Entertainment</string>
 
-    <string name="double_click_exit">双击退出</string>
+    <string name="double_click_exit">再按一次退出</string>
+    <string name="splash_slogan">玩出新态度，新花样</string>
+    <string name="splash_copyright">Copyright &#169; 2015 Entertainment All Rights Reserved\nPowered by melon</string>
+    <string name="splash_version">V %1$s</string>
 
 </resources>
